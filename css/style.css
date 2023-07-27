@@ -82,6 +82,10 @@ h2 {
     font-weight: 600;
 }
 
+.button:hover {
+    cursor: pointer;
+}
+
 .light {
     opacity: 0.4;
 }
